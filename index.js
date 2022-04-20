@@ -146,4 +146,15 @@ function runApp () {
         });
     
       }
+    
+      // Finalize prompts and build HTML.
+    function htmlBuiler () {
+        console.log("Team Profile Created!")
+
+        fs.writeFileSync(outpath, generateTeam(teamArray), "UTF-8")
+    }
+
+    createTeam();
 }
+
+runApp();
