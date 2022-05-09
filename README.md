@@ -11,7 +11,7 @@ This is an app that will allow the user to put together a team profile based on 
 <img src="assets/screenshot-html.png">
 
 ## Video Demo
-[Click here to watch video demo.](https://drive.google.com/file/d/1JPDfBR7jc-iMuW32eIrwdD2H9N4C_vqY/view)
+[Click here to watch video demo.](https://drive.google.com/file/d/1JPDfBR7jc-iMuW32eIrwdD2H9N4C_vqY/view?usp=sharing)
 
 ## Contact Me
 - Email: adamdvaughn@gmail.com
